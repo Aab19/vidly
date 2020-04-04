@@ -1,5 +1,9 @@
 # RESTful API services with Node, Express and MongoDB.
 
+<div style="text-align:center">
+<img src="https://miro.medium.com/max/1040/1*ld9k6ygaJCBF6o6fyuQQIA.jpeg" />
+</div>
+
 ## Project setup
 ```
 npm install
