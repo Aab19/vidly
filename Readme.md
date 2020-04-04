@@ -14,3 +14,4 @@ npm start
 * [NodeJS](https://nodejs.org/en/download/) 
 * NPM (should be bundled with NodeJS)
 * MongoDB
+* Postman
