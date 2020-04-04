@@ -19,7 +19,7 @@ app.use(express.json()); // built in middleware
 app.use(express.urlencoded({ extended: true })); // built in middleware
 app.use(express.static("public")); // built in middleware
 
-debug("Enter");
+// debug("Enter");
 
 // Detect env to conditional apply middleware
 if (app.get("env") || process.env.NODE_ENV === "development") {
