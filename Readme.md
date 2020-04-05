@@ -1,6 +1,6 @@
 # RESTful API services with Node, Express and MongoDB.
 
-<p style="align:center">
+<p align="center>
 <img src="https://miro.medium.com/max/1040/1*ld9k6ygaJCBF6o6fyuQQIA.jpeg" />
 </p>
 
